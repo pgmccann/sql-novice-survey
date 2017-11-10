@@ -43,7 +43,7 @@ that we can then use as a starting point for further queries.
 > so it *is* possible to move information from one to another.
 {: .callout}
 
-Queries are written in a language called [SQL]({{ site.github.url }}/reference/#sql),
+Queries are written in a language called [SQL]({{ site.github.url }}/reference/#sql) (pronounced 'ESS-QUEUE-ELL' or 'sequel'),
 which stands for "Structured Query Language".
 SQL provides hundreds of different ways to analyze and recombine data.
 We will only look at a handful of queries,
