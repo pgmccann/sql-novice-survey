@@ -33,6 +33,9 @@ SELECT * FROM Visited WHERE site='DR-1';
 |622  |DR-1|1927-02-10|
 |844  |DR-1|1932-03-22|
 
+Note the single quotes around the string value we are matching against.
+SQLite also allows double quotes, but other database managers will only allow single quotes.
+
 The database manager executes this query in two stages.
 First,
 it checks at each row in the `Visited` table
