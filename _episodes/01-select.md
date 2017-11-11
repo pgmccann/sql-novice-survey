@@ -235,9 +235,11 @@ instance, you can scan the statement, quickly locate the prominent
 `FROM` keyword and know the table name follows.  Whatever casing
 convention you choose, please be consistent: complex queries are hard
 enough to read without the extra cognitive load of random
-capitalization.  One convention is to use UPPER CASE for SQL
-statements, to distinguish them from tables and column names. This is
-the convention that we will use for this lesson.
+capitalization. We will be using UPPER CASE for SQL
+keywords throughout this lesson.
+
+With some database managers it is possible to define table and field names such
+that they are case-sensitive, but this is not generally the case.
 
 While we are on the topic of SQL's syntax, one aspect of SQL's syntax
 that can frustrate novices and experts alike is forgetting to finish a
