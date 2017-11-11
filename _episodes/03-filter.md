@@ -9,7 +9,7 @@ objectives:
 - "Explain the order in which the clauses in a query are executed."
 keypoints:
 - "Use WHERE to specify conditions that records must meet in order to be included in a query's results."
-- "Use AND, OR, and NOT to combine tests."
+- "Use AND and OR to combine tests."
 - "Filtering is done on whole records, so conditions can use fields that are not actually displayed."
 - "Write queries incrementally."
 ---
