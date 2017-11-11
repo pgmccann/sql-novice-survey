@@ -49,8 +49,6 @@ SQL provides hundreds of different ways to analyze and recombine data.
 We will only look at a handful of queries,
 but that handful accounts for most of what scientists do.
 
-Before we get into the data and using SQLite to select the data,
-
 The tables below show the database we will use in our examples:
 
 <div class="row">
