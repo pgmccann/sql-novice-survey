@@ -109,7 +109,7 @@ even if the rows they come from didn't appear to be adjacent in the database tab
 
 
 Our next task is to identify the scientists on the expedition by looking at the `Person` table.
-As we mentioned earlier,
+As with columns,
 database records are not stored in any particular order.
 This means that query results aren't necessarily sorted,
 and even if they are,
