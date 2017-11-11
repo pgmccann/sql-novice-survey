@@ -258,10 +258,9 @@ for a `;` to let SQL know to finish.  This is easy to fix!  Just type
 `;` and press enter!
 
 Now, going back to our query,
-it's important to understand that
-the rows and columns in a database table aren't actually stored in any particular order.
-They will always be *displayed* in some order,
-but we can control that in various ways.
+it's important to understand that there's nothing special about the order in which
+the columns in a database table are displayed, and we can control that
+order in various ways.
 For example,
 we could swap the columns in the output by writing our query as:
 
