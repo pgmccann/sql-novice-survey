@@ -134,6 +134,8 @@ the database manager chooses an actual value from the input set.
 It might use the first one processed,
 the last one,
 or something else entirely.
+Some database managers won't allow queries like this without a GROUP BY clause,
+which we'll come to shortly.
 
 Another important fact is that when there are no values to aggregate ---
 for example, where there are no rows satisfying the `WHERE` clause ---
